@@ -5,3 +5,4 @@ lib/
 bin/
 lib64/
 etc/
+testing/download/*
