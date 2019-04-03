@@ -1,3 +1,7 @@
 *.pyc
 *.env
 data/
+lib/
+bin/
+lib64/
+etc/
